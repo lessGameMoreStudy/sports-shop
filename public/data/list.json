@@ -1,0 +1,522 @@
+[
+    {
+        "id": "pu",
+        "list": [
+            {
+                "name": "TF-1000传奇7号PU篮球",
+                "price": "￥ 599.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU01.jpeg"
+            },
+            {
+                "name": "NBA经典红色掌控76-076Y",
+                "price": "￥ 249.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU02.jpeg"
+            },
+            {
+                "name": "NBA\"掌控\"室内外篮球76-169Y",
+                "price": "￥ 229.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU03.jpeg"
+            },
+            {
+                "name": "commander数码迷彩绿色室内外PU篮球76-247Y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU04.jpeg"
+            },
+            {
+                "name": "NBA仿生蛇皮纹系列室内室外PU篮球76-156y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU05.jpeg"
+            },
+            {
+                "name": "NBA彩色运球人PU篮球 76-258y",
+                "price": "￥ 269.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU06.jpeg"
+            },
+            {
+                "name": "斯伯丁NBA德玛尔德罗赞签名76-238y",
+                "price": "￥ 239.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU07.jpeg"
+            },
+            {
+                "name": "Dura Grip复合材料表皮PU篮球76-260y",
+                "price": "￥ 249.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU08.jpeg"
+            },
+            {
+                "name": "NBA 蛇皮系列 棕色PU球76-155y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/PU09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "niupi",
+        "list": [
+            {
+                "name": "NBA职业比赛用球牛皮篮球74-569Y",
+                "price": "￥ 1,199.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/cow01.jpeg"
+            },
+            {
+                "name": "2019 NBA全明星赛正赛比赛用球",
+                "price": "￥ 1,999.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/cow02.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "nba",
+        "list": [
+            {
+                "name": "NBA职业比赛用球牛皮篮球74-569Y",
+                "price": "￥ 1,199.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBA01.jpeg"
+            },
+            {
+                "name": "NBA职业比赛用球复刻版74-570Y",
+                "price": "￥ 199.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBA02.jpeg"
+            },
+            {
+                "name": "斯伯丁NBA圣诞系列黄蓝橡胶篮球83-640y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAd01.jpeg"
+            },
+            {
+                "name": "NBA骑士队圣诞系列黄/蓝橡胶篮球83-654y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAd02.jpeg"
+            },
+            {
+                "name": "NBA圣诞系列勇士队徽橡胶篮球83-637y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAd03.jpeg"
+            },
+            {
+                "name": "NBA快船队徽橡胶篮球 83-155Y",
+                "price": "￥ 79.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAd04.jpeg"
+            },
+            {
+                "name": "NBA位置球大前锋室内外篮球",
+                "price": "￥ 159.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAp04.jpeg"
+            },
+            {
+                "name": "NBA位置球中锋室内外篮球",
+                "price": "￥ 159.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAp05.jpeg"
+            },
+            {
+                "name": "NBA位置系列小前锋",
+                "price": "￥ 159.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAp03.jpeg"
+            },
+            {
+                "name": "NBA位置系列控球后卫",
+                "price": "￥ 159.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAp02.jpeg"
+            },
+            {
+                "name": "NBA位置系列得分后卫",
+                "price": "￥ 159.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBAp01.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "seven",
+        "list": [
+            {
+                "name": "TF-1000传奇7号PU篮球",
+                "price": "￥ 599.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven01.jpeg"
+            },
+            {
+                "name": "NBA经典红色掌控76-076Y",
+                "price": "￥ 249.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven02.jpeg"
+            },
+            {
+                "name": "斯伯丁NBA圣诞系列黄蓝橡胶篮球83-640y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven03.jpeg"
+            },
+            {
+                "name": "NBA骑士队圣诞系列黄/蓝橡胶篮球83-654y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven04.jpeg"
+            },
+            {
+                "name": "NBA圣诞系列勇士队徽橡胶篮球83-637y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven05.jpeg"
+            },
+            {
+                "name": "NBAlogo 圣诞系列红蓝橡胶球83-544y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven06.jpeg"
+            },
+            {
+                "name": "nba涂鸦系列室外橡胶篮球83-574y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven07.jpeg"
+            },
+            {
+                "name": "highlight红/白/蓝色星形橡胶篮球83-573y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven08.jpeg"
+            },
+            {
+                "name": "commander数码迷彩绿色室内外PU篮球76-247Y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/seven09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "six",
+        "list": [
+            {
+                "name": "NBA 4Her粉色配色女子橡胶篮球 83-310Y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six01.jpeg"
+            },
+            {
+                "name": "NBA\"掌控\"室内外篮球76-169Y",
+                "price": "￥ 229.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six02.jpeg"
+            },
+            {
+                "name": "NBA彩色运球人PU篮球 76-258y",
+                "price": "￥ 269.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six03.jpeg"
+            },
+            {
+                "name": "Dura Grip复合材料表皮PU篮球76-260y",
+                "price": "￥ 249.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six04.jpeg"
+            },
+            {
+                "name": "WNBA职业比赛PU室内室外女子6号球 76-009y",
+                "price": "￥ 239.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six05.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店新款JR.NBA室内室外PU篮球74-945y",
+                "price": "￥ 249.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six06.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店JR.NBA青少年橡胶篮球83-420Y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six07.jpeg"
+            },
+            {
+                "name": "nba4her系列橡胶室外女子篮球6号球 83-051y",
+                "price": "￥ 79.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six08.jpeg"
+            },
+            {
+                "name": "nba4her系列橡胶室外女子6号篮球 83-050y",
+                "price": "￥ 79.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/six09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "one",
+        "list": [
+            {
+                "name": "SPALDING官方旗舰店红色镜面狗年纪念1号小球纪念1号小球65-022y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one01.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店儿童球男孩1号橡胶篮球65-892Y 65-892y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one02.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店儿童球女孩1号橡胶篮球65-891Y 65-891y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one03.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店篮球信徒系列1号黑色镜面PU篮球65-890Y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one04.jpeg"
+            },
+            {
+                "name": "欧锦赛拜仁纪念观赏橡胶篮球1号球65-853Y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one05.jpeg"
+            },
+            {
+                "name": "金色镜面玩赏PU篮球1号球",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one06.jpeg"
+            },
+            {
+                "name": "NBA经典纪念玩赏PU篮球1号球",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one07.jpeg"
+            },
+            {
+                "name": "NBA银色镜面PU纪念礼物PU篮球1号球",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one10.jpeg"
+            },
+            {
+                "name": "柠檬黄PU礼品1号玩赏篮球",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/one09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "shang",
+        "list": [
+            {
+                "name": "运动休闲男子夹克长袖",
+                "price": "￥ 499.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang01.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列背心 twcwx000132",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang02.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列背心 twcwx000162",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang03.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列背心 twcwx000172",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang04.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球背心 twcwx000205",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang05.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球背心 twcwx000225",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang06.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球背心 twcwx000235",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang07.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球背心 twcwx000275",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang08.jpeg"
+            },
+            {
+                "name": "男子运动训练夹克上衣 twtwx000335",
+                "price": "￥ 239.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/shang09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "xia",
+        "list": [
+            {
+                "name": "篮球比赛服套装精英系列短裤",
+                "price": "￥ 189.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia01.jpeg"
+            },
+            {
+                "name": "篮球比赛服套装精英系列短裤",
+                "price": "￥ 189.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia02.jpeg"
+            },
+            {
+                "name": "运动休闲男子长裤 stswx101015",
+                "price": "￥ 269.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia03.jpeg"
+            },
+            {
+                "name": "运动休闲男子长裤 stswx101075",
+                "price": "￥ 269.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia04.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球短裤 twcwx100132",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia05.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球短裤 twcwx100162",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia06.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球短裤 twcwx100172",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia07.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球短裤 twcwx100205",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia08.jpeg"
+            },
+            {
+                "name": "篮球比赛套装经典系列篮球短裤 twcwx100225",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/xia09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "football",
+        "list": [
+            {
+                "name": "sc1系列棕/灰/黄色 5号机缝足球64-959y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/SC1001.jpeg"
+            },
+            {
+                "name": "sc1 系列 白/绿/紫色 5号机缝足球64-958y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/SC1002.jpeg"
+            },
+            {
+                "name": "sc1系列银/黑/橘色5号机缝足球64-957y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/SC101.jpeg"
+            },
+            {
+                "name": "CLASSIC 2.0系列机缝足球64-953y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/SC102.jpeg"
+            },
+            {
+                "name": "CLASSIC 2.0系列机缝足球64-950y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/SC103.jpeg"
+            },
+            {
+                "name": "CLASSIC 2.0系列 机缝足球64-952y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/fivefoot01.jpeg"
+            },
+            {
+                "name": "CLASSIC 2.0系列机缝足球64-951y",
+                "price": "￥ 89.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/fivefoot02.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店ROOKIE GEAR青少年用球 83-317Y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/fivefoot03.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "shinei",
+        "list": [
+            {
+                "name": "TF-1000传奇7号PU篮球",
+                "price": "￥ 599.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in01.jpeg"
+            },
+            {
+                "name": "NBA仿生蛇皮纹系列室内室外PU篮球76-156y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in02.jpeg"
+            },
+            {
+                "name": "NBA 蛇皮系列 棕色PU球76-155y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in03.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店洛杉矶全明星赛花球纪念套装 65-023z",
+                "price": "￥ 1,199.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in04.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店红色镜面狗年纪念1号小球纪念1号小球65-022y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in05.jpeg"
+            },
+            {
+                "name": "SPALDING官方旗舰店NBA蛇皮纹系列室内室外PU篮球76-039Y",
+                "price": "￥ 299.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in06.jpeg"
+            },
+            {
+                "name": "NBA铂金传奇系列ZK表皮材料PU篮球76-017Y",
+                "price": "￥ 599.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in07.jpeg"
+            },
+            {
+                "name": "NBA镜面系列室内室外PU篮球76-113y",
+                "price": "￥ 349.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in08.jpeg"
+            },
+            {
+                "name": "NBA镜面系列室内室外PU篮球74-653Y",
+                "price": "￥ 349.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/in09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "shiwai",
+        "list": [
+            {
+                "name": "NBA 4Her粉色配色女子橡胶篮球 83-310Y",
+                "price": "￥ 99.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out01.jpeg"
+            },
+            {
+                "name": "斯伯丁NBA圣诞系列黄蓝橡胶篮球83-640y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out02.jpeg"
+            },
+            {
+                "name": "NBA骑士队圣诞系列黄/蓝橡胶篮球83-654y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out03.jpeg"
+            },
+            {
+                "name": "NBA圣诞系列勇士队徽橡胶篮球83-637y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out04.jpeg"
+            },
+            {
+                "name": "NBAlogo 圣诞系列红蓝橡胶球83-544y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out05.jpeg"
+            },
+            {
+                "name": "nba涂鸦系列室外橡胶篮球83-574y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out06.jpeg"
+            },
+            {
+                "name": "highlight红/白/蓝色星形橡胶篮球83-573y",
+                "price": "￥ 109.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out07.jpeg"
+            },
+            {
+                "name": "大理石印花彩色室外橡胶篮球83-636y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out08.jpeg"
+            },
+            {
+                "name": "大理石红/白印花系列 橡胶篮球83-634y",
+                "price": "￥ 129.00",
+                "url": "https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/out09.jpeg"
+            }
+        ]
+    }
+]
