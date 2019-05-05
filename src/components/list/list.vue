@@ -2,12 +2,12 @@
     <div class="list">
         <div class="list-nav">
             <ul>
-                <li v-for="(item,index) in nav" :key="index" :class="actNum==index?'active':''" @click="check(index)">{{item}}</li>
+                <li v-for="(item,index) in nav" :key="index" :class="actNum==index?'active':''" @click="check(index,item.type)">{{item.name}}</li>
             </ul>
         </div>
         <div class="list-detail">
-            <router-link tag='div' :to="{name:'Detail',params:{url:item.url,ind:item.name,price:item.price}}" v-for="(item,index) in actList.list" :key="index">
-                <img :src='item.url' alt="">
+            <router-link tag='div' :to="{name:'Detail',params:{url:item.img,ind:item.name,price:item.price,id:item.id}}" v-for="(item,index) in list" :key="index">
+                <img :src='item.img' alt="">
                 <p>{{item.name}}</p>
                 <span>{{item.price}}</span>
             </router-link>
@@ -22,23 +22,56 @@ export default {
     name:'List',
     data(){
         return {
-            nav:['PU','牛皮','NBA','7号球','6号球','1号球','下装','上装','足球','室内','室外'],
-            allList:[],
-            actList:[],
+            nav:[
+                {name:'PU',type:'pu'},
+                {name:'牛皮',type:'niupi'},
+                {name:'NBA',type:'nba'},
+                {name:'7号球',type:'seven'},
+                {name:'6号球',type:'six'},
+                {name:'1号球',type:'one'},
+                {name:'下装',type:'xia'},
+                {name:'上装',type:'shang'},
+                {name:'足球',type:'football'},
+                {name:'室内',type:'shinei'},
+                {name:'室外',type:'shiwai'}
+            ],
+            list:[],
             actNum:0
         }
     },
     methods:{
-        check(index){
+        check(index,type){
             this.actNum = index;
-            this.actList = this.allList[this.actNum]
+            axios.get(
+            'http://localhost:8070/list',
+            {
+                params:{
+                    type:type
+                }
+            }
+            ).then(
+                (res)=>{
+                    this.list = res.data;
+                }
+            )
+            .catch(
+                (err)=>{
+                    console.log(err)
+                }
+            )
         }
     },
     created(){
-        axios.get('/data/list.json').then(
+        axios.get(
+            'http://localhost:8070/list',
+            {
+                params:{
+                    type:'pu'
+                }
+            }
+        ).then(
             (res)=>{
-                this.allList = res.data;
-                this.actList = res.data[this.actNum]
+                this.list = res.data;
             }
         )
         .catch(

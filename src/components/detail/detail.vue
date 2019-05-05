@@ -29,7 +29,7 @@
                 <p>客服</p>
             </div>
             <div class="to-shopcar">
-                <button>加入购物车</button>
+                <button @click="addCart">加入购物车</button>
             </div>
             <div class="shop-immediately">
                 <button>立即购买</button>
@@ -46,10 +46,36 @@
     </div>
 </template>
 <script>
+import axios from 'axios';
 export default {
     name:'Detail',
+    data(){
+        return {
+            user:''
+        }
+    },
     mounted(){
         window.scrollTo(0,0)
+       this.user = window.localStorage.getItem('userId')
+    },
+    methods:{
+        addCart(){
+            axios.get(
+                'http://localhost:8070/addCart',
+                {
+                    params:{
+                        goodsId:this.$route.params.id,
+                        userId:this.user
+                    }
+                }
+            ).then(
+                (res)=>{
+                    console.log(res)
+                }
+            ).catch(
+                err=>console.log(err)
+            )
+        }
     }
 }
 </script>

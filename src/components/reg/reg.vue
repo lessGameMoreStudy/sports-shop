@@ -38,12 +38,18 @@ export default {
     },
     methods: {
         reg(){
-            axios.post('http://120.77.170.183/api/register/',{
-                account:this.username,
-                password:this.password
-            }).then(
+            axios.get(
+                'http://localhost:8070/register',
+                {
+                    params:{
+                        username:this.username,
+                        password:this.password
+                    }
+                }
+            ).then(
                 (res)=>{
-                    if(res.data.data == 'error'){
+                    console.log(res.data)
+                    if(res.data == 'fail'){
                         alert('用户名已存在')
                         this.username = ''
                         this.password = ''

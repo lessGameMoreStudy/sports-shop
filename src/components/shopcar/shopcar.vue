@@ -28,9 +28,9 @@
                         <div class="goods-info">
                             <p class="goods-title">{{ item.name }}</p>
                             <div class="goods-price">
-                                <span>¥<b>{{ item.price }}</b></span>
+                                <span><b>{{ item.price }}</b></span>
                             </div>
-                            <span class="des">库存{{ item.stock }}件</span>
+                            <span class="des">库存128件</span>
                             <div class="goods-num">
                                 <div class="num-btn" @click="changeQty(true, item)">+</div>
                                 <div class="show-num">{{ item.quantity }}</div>
@@ -62,10 +62,32 @@
 </template>
 
 <script>
+import axios from 'axios'
 export default {
     name:'shopcar',
+    created(){
+        this.userid = window.localStorage.getItem('userId')
+    },
+    mounted(){
+        axios.get(
+            'http://localhost:8070/cart',
+            {
+                params:{
+                    userId:this.userid
+                }
+            }
+        ).then(
+            (res)=>{
+                console.log(res.data)
+                this.cart = res.data
+            }
+        ).catch(
+            err=>console.log(err)
+        )
+    },
     data(){
         return {
+            userid:'',
             checkAllFlag: false,
             selectedNum: 0,
             delFlag: false,
@@ -73,12 +95,9 @@ export default {
                 id: 1001,
                 name: '斯伯丁官方旗舰店高弹力空心胶球LOGO系列 51-173y',
                 price: 559,
-                type: 4,
                 quantity: 1,
                 subtotal: 558,
-                stock: 128,
                 checked: false,
-                sales: 1872,
                 img: 'http://sports-shop.oss-cn-shanghai.aliyuncs.com/img/ALL%20SURFACE01.jpeg'
             }]
         }

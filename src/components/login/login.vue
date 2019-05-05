@@ -39,18 +39,29 @@ export default {
     methods: {
         login(){
             var storage = window.localStorage;
-            axios.post('http://120.77.170.183/api/login/',{
-                account:this.user,
-                password:this.pass                
-            }).then(
+            axios.get(
+                'http://localhost:8070/login',
+                {
+                    params:{
+                        userName:this.user,
+                        passWord:this.pass
+                    }
+                }
+            ).then(
                 (res)=>{
-                    if(res.data.err){
+                    if(res.data == 'fail'){
                         alert('账号密码错误')
                         this.pass = ''
                     }
+                    else if(res.data == 'no user'){
+                        alert('没有这个账号，请注册')
+                        this.$router.push({path:'/reg'})
+                    }
                     else{
-                        storage['user'] = res.data.data[0].account
+                        storage['user'] = this.user;
+                        storage['userId'] = res.data[0].user_id
                         this.$router.push({path:'/user'})
+                        console.log(res)
                     }
                 }
             ).catch(
