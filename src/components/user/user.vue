@@ -30,12 +30,12 @@
         </div>
         <div class="has-buy">
             <div class="has-buy-pic">
-                <img src="https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBA01.jpeg" alt="">
+                <img src="https://sports-shop.oss-cn-shanghai.aliyuncs.com/img/NBA02.jpeg" alt="">
             </div>
             <div class="has-buy-info">
-                <p>Highlight红/白/蓝色星形PU篮球76-022Y</p>
+                <p>Highlight红/白/蓝色星形PU篮球76-023Y</p>
                 <div class="has-buy-price">
-                    <p>￥ 249.00</p>
+                    <p>￥ 299.00</p>
                 </div>
             </div>
         </div>
